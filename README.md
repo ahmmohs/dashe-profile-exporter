@@ -15,3 +15,9 @@ https://goo.gl/forms/LMa97RwA5dNbP0k03
 
 3. Rename the .csv file to 'slots.csv' and make sure it is in the same folder as exporter.py
 4. Run exporter.py :D
+
+## After you have ran exporter.py...
+1. Open up Dashe
+2. Go to profiles and hit 'Import'
+3. Locate the dasheProfiles.json file (will be in the same folder as exporter.py)
+4. All done :D
